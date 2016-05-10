@@ -5,8 +5,8 @@ Sunum
 * [http://slides.com/kenansubasi/git](http://slides.com/kenansubasi/git)
 
 Git
-* [Orjinal İngilizce Döküman](https://git-scm.com/book/en/v2)
-* [Orjinal Türkçe Döküman](https://git-scm.com/book/tr/v1)
+* [Orijinal İngilizce Döküman](https://git-scm.com/book/en/v2)
+* [Orijinal Türkçe Döküman](https://git-scm.com/book/tr/v1)
 * [Git Basit Rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
 
 
